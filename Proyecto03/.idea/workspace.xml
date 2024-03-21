@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2a3d78d4-7501-46ff-b5ee-95fd2b53cec3" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Proyecto01/src/test/java/tests/WikipediaTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Proyecto01/src/test/java/tests/WikipediaTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Proyecto02/src/test/java/org/example/pages/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Proyecto02/src/test/java/org/example/pages/HomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Proyecto02/src/test/java/org/example/pages/SearchResults.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Proyecto02/src/test/java/org/example/pages/SearchResults.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2XETufqdurmpxhgA98ieJC4CXlp" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/gabri/OneDrive/Documentos/Gabriel/1-Cursos/1-EggGlobantQA/16-Repaso/extras/Ayuda/RepasoAPIWebAutomation",
+    "onboarding.tips.debug.path": "C:/Users/gabri/OneDrive/Documentos/Gabriel/1-Cursos/1-EggGlobantQA/001-ProjectsEGG/WebAutomation/Prueba01/src/main/java/org/example/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\gabri\OneDrive\Documentos\Gabriel\1-Cursos\1-EggGlobantQA\001-ProjectsEGG\WebAutomation\Prueba01\src\test\java\org.example" />
+      <recent name="C:\Users\gabri\OneDrive\Documentos\Gabriel\1-Cursos\1-EggGlobantQA\001-ProjectsEGG\WebAutomation\Prueba01\src\test\java\org\example" />
+      <recent name="C:\Users\gabri\OneDrive\Documentos\Gabriel\1-Cursos\1-EggGlobantQA\001-ProjectsEGG\WebAutomation\Prueba01\src\test\pages" />
+      <recent name="C:\Users\gabri\OneDrive\Documentos\Gabriel\1-Cursos\1-EggGlobantQA\001-ProjectsEGG\WebAutomation\Prueba01" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+      <recent name="org.example" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.Swapi.skinColor">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Proyecto03" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Proyecto03" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MockApi" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Prueba01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Test" />
+      <option name="MAIN_CLASS_NAME" value="Test.MockApi" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Swapi" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Prueba01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Test" />
+      <option name="MAIN_CLASS_NAME" value="Test.Swapi" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Swapi2" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Prueba01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Test" />
+      <option name="MAIN_CLASS_NAME" value="Test.Swapi2" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Swapi.skinColor" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Prueba01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Test" />
+      <option name="MAIN_CLASS_NAME" value="Test.Swapi" />
+      <option name="METHOD_NAME" value="skinColor" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Swapi.succesResponse" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Prueba01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Test" />
+      <option name="MAIN_CLASS_NAME" value="Test.Swapi" />
+      <option name="METHOD_NAME" value="succesResponse" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.Swapi.skinColor" />
+        <item itemvalue="TestNG.Swapi2" />
+        <item itemvalue="TestNG.Swapi.succesResponse" />
+        <item itemvalue="TestNG.Swapi" />
+        <item itemvalue="TestNG.MockApi" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2a3d78d4-7501-46ff-b5ee-95fd2b53cec3" name="Changes" comment="" />
+      <created>1698193465703</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1698193465703</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/Test/MockApi.java</url>
+          <line>44</line>
+          <properties class="Test.MockApi" method="postExample3">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
