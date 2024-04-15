@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2a3d78d4-7501-46ff-b5ee-95fd2b53cec3" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../Proyecto01/src/test/java/tests/WikipediaTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Proyecto01/src/test/java/tests/WikipediaTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Proyecto02/src/test/java/org/example/pages/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Proyecto02/src/test/java/org/example/pages/HomePage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Proyecto02/src/test/java/org/example/pages/SearchResults.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Proyecto02/src/test/java/org/example/pages/SearchResults.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Proyecto02/src/test/java/Test/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Proyecto02/src/test/java/Test/BaseTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Proyecto02/src/test/java/Test/FirstTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Proyecto02/src/test/java/Test/FirstTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Proyecto02/target/test-classes/Test/BaseTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Proyecto02/target/test-classes/Test/BaseTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Proyecto02/target/test-classes/Test/FirstTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Proyecto02/target/test-classes/Test/FirstTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +46,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/gabri/OneDrive/Documentos/Gabriel/1-Cursos/1-EggGlobantQA/16-Repaso/extras/Ayuda/RepasoAPIWebAutomation",
+    "last_opened_file_path": "C:/Users/gabri/OneDrive/Documentos/Gabriel/1-Cursos/1-EggGlobantQA/0001-ProyectoIntegrador/Codigo/Proyecto03",
     "onboarding.tips.debug.path": "C:/Users/gabri/OneDrive/Documentos/Gabriel/1-Cursos/1-EggGlobantQA/001-ProjectsEGG/WebAutomation/Prueba01/src/main/java/org/example/Main.java",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
@@ -65,7 +66,7 @@
       <recent name="org.example" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.Swapi.skinColor">
+  <component name="RunManager" selected="TestNG.Swapi">
     <configuration default="true" type="JetRunConfigurationType">
       <module name="Proyecto03" />
       <method v="2">
@@ -168,11 +169,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.Swapi.skinColor" />
+        <item itemvalue="TestNG.Swapi" />
         <item itemvalue="TestNG.Swapi2" />
         <item itemvalue="TestNG.Swapi.succesResponse" />
-        <item itemvalue="TestNG.Swapi" />
         <item itemvalue="TestNG.MockApi" />
+        <item itemvalue="TestNG.Swapi.skinColor" />
       </list>
     </recent_temporary>
   </component>

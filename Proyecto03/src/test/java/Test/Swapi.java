@@ -14,12 +14,14 @@ import static io.restassured.RestAssured.given;
 
 public class Swapi {
 
-    private String url = "https://swapi.dev/ap/";
+    private String url = "https://swapi.dev/api/";
     private String endpoint = "people/2/";
 
     //private String endpoint2 = "films/2/";        //lo seteaba, luego lo busco del JSON
 
     private String urlEndpoint2 = grabEndpoint2();  //busca en endpoint2
+
+
 
     private Response response;
 
